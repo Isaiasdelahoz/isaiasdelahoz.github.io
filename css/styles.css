@@ -13,7 +13,7 @@ ul li {
   text-align: justify;
 }
 a:hover, a:focus, a:active {
-    color: #EF9605;
+    color: #727272;
     text-decoration: none;
 }
 input {
@@ -148,6 +148,12 @@ textarea{
 .btn-info {
     background-color:#EF9605;
     border-color: #EF9605;
+}
+
+.btn-info:hover {
+    background-color: #727272;
+    border-color:  #727272;
+    color: black;
 }
 .btn {
     padding-right: 15px;
